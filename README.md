@@ -8,6 +8,7 @@ In this repository, we compile literary canons and other lists of literary works
 - 2024-spiegel-canon
 - 2024-nzz-canon
 - 2025-spiegel-canon-international
+- 2025-zeit-canon
 
 # Co-authorship, series titles, time format
 
