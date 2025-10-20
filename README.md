@@ -4,7 +4,8 @@ In this repository, we compile literary canons and other lists of literary works
 
 # Overview
 
-- 2006-2018-1001-books
+- 2006-1001-books
+- 2019-100-notable-books-in-ukrainian
 - 2024-spiegel-canon
 - 2024-nzz-canon
 - 2025-spiegel-canon-international

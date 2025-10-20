@@ -12,8 +12,8 @@ We added publishers and publishing locations of the first editions of all works.
 We list the works in the order in which they appear in the SPIEGEL print edition. In the online edition, positions 72 and 73 are reversed (Alexander Kluge and Terézia Mora).
 
 # The SPIEGEL Literary Canon 1924–2024 listified in other projects
-- [Goodreads](https://www.goodreads.com/list/show/219264.Der_SPIEGEL_Literaturkanon)
-- [LibraryThing](https://www.librarything.com/list/45904/all/Die-besten-Werke-der-deutschsprachigen-Erz%C3%A4hlliteratur-von-1924-bis-2024)
+- [Goodreads](https://www.goodreads.com/list/show/219264)
+- [LibraryThing](https://www.librarything.com/list/45904)
 
 # Team
 - Jonas Rohe ([@Fera333](https://github.com/fera333))
