@@ -3,7 +3,7 @@
 (= »The 100 Best Books from 1900 to the Present«)
 
 »The list […] was compiled in 2024 by »more than 100 Israeli writers, critics, editors, translators and scholars each submitted a personal Top‑10 of books published since 1900. Using a simple points system (10 pts for a first‑place vote, 9 pts for second, etc.)
-the culture desk of Yedioth Ahronoth aggregated the ballots into a master list, yielding 101 titles—expanded to 102 lines because Samuel Beckett’s “trilogy” was counted as its three component novels..« (The Greatest Books)
+the culture desk of Yedioth Ahronoth aggregated the ballots into a master list, yielding 101 titles—expanded to 102 lines because Samuel Beckett’s “trilogy” was counted as its three component novels..« (The Greatest Books) The list was published in by the israelie Daily Newspaper Yedioth Ahronoth:
 
 https://z.ynet.co.il/long/content/specials/100books/
 
