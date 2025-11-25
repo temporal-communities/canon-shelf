@@ -1,0 +1,59 @@
+{
+  "@context": [
+    {
+      "@vocab": "https://schema.org/",
+      "prov": "http://www.w3.org/ns/prov#"
+    }
+  ],
+  "@type": "Dataset",
+  "name": "Die 100 besten Bücher der Welt – 1925 bis 2025: Der internationale SPIEGEL-Kanon",
+  "description": "This dataset is a canon list enriched in OpenRefine with Wikidata, GND and Goodreads IDs.",
+  "dateCreated": "2025-07-22",
+  "isAccessibleForFree": true,
+  "keywords": ["canonicity", "literary studies"],
+  "license": ["https://creativecommons.org/publicdomain/zero/1.0"],
+  "citation": "…",
+  "creator": ["Jonas Rohe", "Frank Fischer"],
+  "maintainer": [],
+  "sourceOrganization": ["Freie Universität Berlin"],
+  "isBasedOn": {
+    "@type": "CreativeWork",
+    "url": "https://www.spiegel.de/kultur/literatur/spiegel-literaturkanon-die-besten-100-buecher-aus-100-jahren-a-e1e74cd7-9cd8-4743-9334-1622cab3ddb4",
+    "isAccessibleForFree": false,
+    "name": "Die 100 besten Bücher der Welt – 1925 bis 2025: Der internationale SPIEGEL-Kanon",
+    "publisher": "Der Spiegel",
+    "isPartOf": {
+      "@type": "PublicationIssue",
+      "issueNumber": 42,
+      "datePublished": "2024-10-12",
+      "pageStart": 9,
+      "pageEnd": 36
+    }
+  },
+  "prov:wasGeneratedBy": {
+    "@type": "prov:Activity",
+    "name": "Reconciliation (OpenRefine) and manual verification",
+    "prov:used": [
+      {
+        "@type": ["prov:SoftwareAgent", "SoftwareApplication"],
+        "name": "OpenRefine",
+        "url": "https://openrefine.org/",
+        "version": "3.9.5"
+      }
+    ],
+    "prov:wasAssociatedWith": [
+      {
+        "@type": ["prov:Agent", "Person"],
+        "givenName": "Jonas",
+        "familyName": "Rohe",
+        "sameAs": "https://orcid.org/0009-0002-8541-8520"
+      },
+      {
+        "@type": ["prov:Agent", "Person"],
+        "givenName": "Frank",
+        "familyName": "Fischer",
+        "sameAs": "https://orcid.org/0000-0003-2419-6629"
+      }
+    ]
+  }
+}
