@@ -1,0 +1,64 @@
+{
+  "@context": [
+    {
+      "@vocab": "https://schema.org/",
+      "prov": "http://www.w3.org/ns/prov#"
+    }
+  ],
+  "@type": "Dataset",
+  "name": [
+    {
+      "@value": "From Skovoroda to the Present Day: 100 Notable Books in Ukrainian",
+      "@language": "en"
+    },
+    {
+      "@value": "Від Сковороди до сьогодення: 100 знакових творів українською мовою",
+      "@language": "uk"
+    }
+  ],
+  "description": "This dataset is a canon list enriched in OpenRefine with Wikidata, GND and Goodreads IDs.",
+  "dateCreated": "2025-10-20",
+  "isAccessibleForFree": true,
+  "keywords": ["canonicity", "literary studies"],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0",
+  "creator": {
+    "@type": "Person",
+    "givenName": "Frank",
+    "familyName": "Fischer",
+    "sameAs": "https://orcid.org/0000-0003-2419-6629"
+  },
+  "sourceOrganization": {
+    "@type": "Organization",
+    "name": "Freie Universität Berlin"
+  },
+  "isBasedOn": {
+    "@type": "CreativeWork",
+    "url": "https://pen.theukrainians.org/",
+    "isAccessibleForFree": false,
+    "name": "From Skovoroda to the Present Day: 100 Notable Books in Ukrainian",
+    "publisher": {
+      "@type": "Organization",
+      "name": "PEN Ukraine"
+    }
+  },
+  "prov:wasGeneratedBy": {
+    "@type": "prov:Activity",
+    "name": "Reconciliation (OpenRefine) and manual verification",
+    "prov:used": [
+      {
+        "@type": ["prov:SoftwareAgent", "SoftwareApplication"],
+        "name": "OpenRefine",
+        "url": "https://openrefine.org/",
+        "version": "3.9.5"
+      }
+    ],
+    "prov:wasAssociatedWith": [
+      {
+        "@type": ["prov:Agent", "Person"],
+        "givenName": "Frank",
+        "familyName": "Fischer",
+        "sameAs": "https://orcid.org/0000-0003-2419-6629"
+      }
+    ]
+  }
+}

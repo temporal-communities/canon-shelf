@@ -11,17 +11,34 @@
   "dateCreated": "2025-07-22",
   "isAccessibleForFree": true,
   "keywords": ["canonicity", "literary studies"],
-  "license": ["https://creativecommons.org/publicdomain/zero/1.0"],
-  "citation": "…",
-  "creator": ["Jonas Rohe", "Frank Fischer"],
-  "maintainer": [],
-  "sourceOrganization": ["Freie Universität Berlin"],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Jonas",
+      "familyName": "Rohe",
+      "sameAs": "https://orcid.org/0009-0002-8541-8520"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Frank",
+      "familyName": "Fischer",
+      "sameAs": "https://orcid.org/0000-0003-2419-6629"
+    }
+  ],
+  "sourceOrganization": {
+    "@type": "Organization",
+    "name": "Freie Universität Berlin"
+  },
   "isBasedOn": {
     "@type": "CreativeWork",
     "url": "https://www.spiegel.de/kultur/literatur/spiegel-literaturkanon-die-besten-100-buecher-aus-100-jahren-a-e1e74cd7-9cd8-4743-9334-1622cab3ddb4",
     "isAccessibleForFree": false,
     "name": "Die 100 besten Bücher der Welt – 1925 bis 2025: Der internationale SPIEGEL-Kanon",
-    "publisher": "Der Spiegel",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Der Spiegel"
+    },
     "isPartOf": {
       "@type": "PublicationIssue",
       "issueNumber": 42,
