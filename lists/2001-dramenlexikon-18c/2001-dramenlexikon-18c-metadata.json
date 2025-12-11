@@ -1,0 +1,63 @@
+{
+  "@context": [
+    {
+      "@vocab": "https://schema.org/",
+      "prov": "http://www.w3.org/ns/prov#"
+    }
+  ],
+  "@type": "Dataset",
+  "name": "Dramenlexikon des 18. Jahrhunderts",
+  "description": "The Encyclopedia of 18th-Century Drama, edited by Heide Hollmer and Albert Meier and published in 2001, constitutes a single-volume reference work comprising entries on 250 German-language dramatic works by 108 authors, with original publication dates ranging from 1700 to 1800.",
+  "dateCreated": "2025-12-11",
+  "isAccessibleForFree": true,
+  "keywords": ["canonicity", "literary studies"],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Frank",
+      "familyName": "Fischer",
+      "sameAs": "https://orcid.org/0000-0003-2419-6629"
+    }
+  ],
+  "sourceOrganization": {
+    "@type": "Organization",
+    "name": "Freie Universität Berlin"
+  },
+  "isBasedOn": {
+    "@type": "CreativeWork",
+    "url": " https://d-nb.info/961123249 ",
+    "isAccessibleForFree": false,
+    "name": "Dramenlexikon des 18. Jahrhunderts",
+    "publisher": {
+      "@type": "Organization",
+      "name": "C. H. Beck"
+    },
+    "isPartOf": {
+      "@type": "PublicationIssue",
+      "datePublished": "2001",
+      "pageStart": 7,
+      "pageEnd": 341
+    }
+  },
+  "prov:wasGeneratedBy": {
+    "@type": "prov:Activity",
+    "name": "Reconciliation (OpenRefine) and manual verification",
+    "prov:used": [
+      {
+        "@type": ["prov:SoftwareAgent", "SoftwareApplication"],
+        "name": "OpenRefine",
+        "url": "https://openrefine.org/",
+        "version": "3.9.5"
+      }
+    ],
+    "prov:wasAssociatedWith": [
+      {
+        "@type": ["prov:Agent", "Person"],
+        "givenName": "Frank",
+        "familyName": "Fischer",
+        "sameAs": "https://orcid.org/0000-0003-2419-6629"
+      }
+    ]
+  }
+}
