@@ -3,7 +3,7 @@
 
 This canon was published in German weekly »Die Zeit« no. 22 (24 May 2025, p. 44, cf. [their online edition](https://www.zeit.de/2025/22/literatur-21-jahrhundert-belletristik-romane), paywalled). The canon comprises 50 books, including 10 works for children and young adults.
 
-We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author_Wikidata_ID, Author_GND_ID, Work_Wikidata_ID, Work_Goodreads_ID, Work_GND_ID).
+We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author Wikidata ID, Author GND ID, Work Wikidata ID, Work Goodreads ID, Work GND ID).
 
 Publication years were taken from the newspaper and, in the case of translations, seem to refer to the German editions.
 

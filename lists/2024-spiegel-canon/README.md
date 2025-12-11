@@ -3,7 +3,7 @@
 
 This canon was published in German weekly »Der Spiegel« no. 42 (12 October 2024, pp. 9–36, cf. [their online edition](https://www.spiegel.de/kultur/literatur/spiegel-literaturkanon-die-besten-100-buecher-aus-100-jahren-a-e1e74cd7-9cd8-4743-9334-1622cab3ddb4), paywalled). The four-member canon committee included: Eva Horn, Jan Philipp Reemtsma, Miryam Schellbach, Joseph Vogl.
 
-We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author_Wikidata_ID, Author_GND_ID, Work_Wikidata_ID, Work_Goodreads_ID, Work_GND_ID).
+We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author Wikidata ID, Author GND ID, Work Wikidata ID, Work Goodreads ID, Work GND ID).
 
 Publication years were converted into [EDTF](https://www.loc.gov/standards/datetime/) format. This only really affects multi-volume works published over several years (of which there are five in total). We then specified the individual publication years, i.&nbsp;e. ```1970–1983``` → ```{1970,1971,1973,1983}```.
 

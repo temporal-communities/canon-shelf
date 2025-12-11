@@ -5,7 +5,7 @@
 
 https://pen.theukrainians.org/
 
-We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author_English, Author_Wikidata_ID, Author_GND_ID, Title_English, Work_Wikidata_ID, Work_Goodreads_ID, Work_GND_ID, Publication_Date).
+We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author English, Author Wikidata ID, Author GND ID, Title English, Work Wikidata ID, Work Goodreads ID, Work GND ID, Publication Date).
 
 Our list contains 101 books, as we counted »The Awakened Muse / The Enslaved Muse« by Ihor Kalynets as two separate works.
 
