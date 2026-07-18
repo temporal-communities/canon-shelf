@@ -1,0 +1,53 @@
+List Number	Series Number	Author	Author Wikidata ID	Author GND ID	Title	Work Wikidata ID	Work GND ID	Work Goodreads ID	Publication Date (As Extracted from Source)	Publication Date (Corrected and Normalized, EDTF)	Normalized Language
+1		Homer	Q6691	11855333X	Odyssee	Q35160	4193022-8	3356006			Greek
+2		Johann Wolfgang von Goethe	Q5879	118540238	Faust	Q29478	4128140-8	232932650		{1790,1808,1832}	German
+3		Dante Alighieri	Q1067	118523708	Die göttliche Komödie	Q40185	4113270-1	809248	1307–1321	1307/1321	Italian
+4		William Shakespeare	Q692	118613723	Hamlet	Q41567	4099350-4	1885548	um 1600	1599/1601	English
+5		Gabriel García Márquez	Q5878	118537601	Hundert Jahre Einsamkeit	Q178869	4123253-7	3295655		1967	Spanish
+6		Robert Musil	Q78487	118585916	Der Mann ohne Eigenschaften	Q1195668	4099323-1	17228383		1930/1943	German
+7		Albert Camus	Q34670	118518739	Der Fremde	Q163297	4236814-5	3324344	1942	1942	French
+8		Fjodor Dostojewskij	Q991	118527053	Verbrechen und Strafe / Schuld und Sühne	Q165318	4099168-4	3393917	1866	1866	Russian
+9		Ovid	Q7198	118590995	Metamorphosen	Q184742	4123895-3	2870411		0008	Latin
+10		James Joyce	Q6882	118558501	Ulysses	Q6511	4099246-9	2368224		1922	English
+11		Miguel de Cervantes	Q5682	11851993X	Don Quijote	Q480	4113209-9	121842	1605; 1615	{1605,1615}	Spanish
+12		Franz Kafka	Q905	118559230	Der Prozess	Q36097	4099250-0	2965832		1925	German
+13		[anonym]			Märchen aus 1001 Nacht	Q8258	4131342-2	859375			Arabic
+14	1	Johann Wolfgang von Goethe	Q5879	118540238	Wilhelm Meisters Lehrjahre	Q1194031	4099206-8	904823	1795/96	1795/1796	German
+14	2	Johann Wolfgang von Goethe	Q5879	118540238	Wilhelm Meisters Wanderjahre	Q478344	4099208-1	65928951	1821/1829	{1821,1829}	German
+15		Franz Kafka	Q905	118559230	Die Erzählungen				1904–1922	1904/1922	German
+16		Günter Grass	Q6538	118541579	Die Blechtrommel	Q899334	4099211-1	922581	1959	1959	German
+17		Thomas Mann	Q37030	118577166	Der Zauberberg	Q212898	4099303-6	647489		1924	German
+18		William Shakespeare	Q692	118613723	König Lear	Q181598	4099357-7	2342136		1606	English
+19		Alfred Döblin	Q57389	118526200	Berlin Alexanderplatz	Q694245	4099162-3	1473268	1929	1929	German
+20		Fjodor Dostojewskij	Q991	118527053	Die Dämonen	Q329989	4135522-2	1487216		1871/1872	Russian
+21		Gustave Flaubert	Q43444	118533754	Madame Bovary	Q193417	4099183-0	2766347	1859	1857	French
+22		Lawrence Sterne	Q218960	11861794X	Tristram Shandy	Q1164083	4099376-0	2280279	1759	1759/1767	English
+23		Thomas Mann	Q37030	118577166	Buddenbrooks	Q326909	4099299-8	3458174		1901	German
+24		Karl Kraus	Q44328	118566288	Die letzten Tage der Menschheit	Q1218953	4099281-0	715132	1918/19	1918/1919	German
+25		Honoré de Balzac	Q9711	118506358	Die menschliche Komödie	Q50188	4201231-4			1829/1850	French
+26		Leo Tolstoj	Q7243	11864291X	Krieg und Frieden	Q161531	4099381-4	4912783		1869	Russian
+27		Leo Tolstoj	Q7243	11864291X	Anna Karenina	Q147787	4137252-9	2507928		1878	Russian
+28		Voltaire	Q9068	118627813	Candide	Q215894	4284773-4	2833018	1776	1759	French
+29		Joseph Roth	Q78509	118603140	Hiob	Q699443	4319450-3	18079647		1930	German
+30		Marcel Proust	Q7199	118596799	Auf der Suche nach der verlorenen Zeit	Q464928	4006834-1	21467164	1913–1927	1913/1927	French
+31		Michel Montaigne	Q41568	118583573	Essays	Q624852	4126042-9			1580	French
+32		Heinrich Heine	Q44403	118548018	Gedichte						German
+33		Max Frisch	Q115483	118536109	Stiller	Q689669	4128890-7	1119503	1954	1954	German
+34		James Joyce	Q6882	118558501	Dubliner	Q459592	4305371-3	260248		1914	English
+35		Jacob und Wilhelm Grimm	Q6701;Q6714	118542257;118542265	Kinder- und Hausmärchen	Q163027	4132759-7	1855987	1812–1815	{1812,1815}	German
+36		William Shakespeare	Q692	118613723	Viel Lärm um Nichts	Q130851	4099366-8	2080738		1600	English
+37		Giorgio Bassani	Q318309	118657496	Die Gärten der Finzi-Contini	Q533391	4497740-2	345967		1962	Italian
+38		Michel Houellebecq	Q103114	121383261	Elementarteilchen	Q700483	4795757-8	2595873		1998	French
+39		Ingeborg Bachmann	Q78506	118505602	Das dreißigste Jahr	Q106204239	4099124-6	257881		1961	German
+40		Giovanni Boccaccio	Q1402	11851217X	Das Dekameron	Q16438	4226218-5	1320474	1349–1353	1349/1353	Italian
+41	1	Lewis Carroll	Q38082	11851928X	Alice im Wunderland	Q92640	4295896-9	55548884	1865	1865	English
+41	2	Lewis Carroll	Q38082	11851928X	Hinter dem Spiegel	Q220331	4483914-5	45962572	1872	1871	English
+42		William Faulkner	Q38392	118532081	Als ich im Sterben lag	Q1544119	1249964385	481854	1930	1930	English
+43		[anonym]			Das Gilgamesch-Epos	Q8272	4138528-7	3802528			Akkadian
+44		William Faulkner	Q38392	118532081	Licht im August	Q1823273	4305506-0	1595500	1932	1932	English
+45		J. D. Salinger	Q79904	118605054	Der Fänger im Roggen	Q183883	4120008-1	3036731	1951	1951	English
+46		Louis Malle	Q55392	118730436	Au revoir, les enfants (Drehbuch)	Q56748750	1322410070	370602	1987	1987	French
+47		Hans Christian Andersen	Q5673	118502794	Märchen				1835–1848	1835/1848	Danish
+48		Martin Luther	Q9554	118575449	Die Bibel (in der Luther-Übersetzung)	Q1571095	4122499-1			1534	German
+49		John Steinbeck	Q39212	118617338	Die Früchte des Zorns	Q215983	4305432-8	2931549	1939	1939	English
+50		Henry James	Q170509	118556835	Bildnis einer Dame	Q861017	4251250-5	1434368	1880; 1908	1880/1881	English

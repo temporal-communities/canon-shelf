@@ -1,0 +1,161 @@
+{
+  "@context":
+  [
+    {
+      "@vocab": "https://schema.org/",
+      "prov": "http://www.w3.org/ns/prov#"
+    }
+  ],
+  "@type": "Dataset",
+  "name": "Alles, was man lesen muss: Die 50 wichtigsten Bücher",
+  "alternateName": "Everything You Need to Read: The 50 Most Important Books",
+  "dateCreated": "2026-07-18",
+  "description": "This dataset contains the ranked best-of list \"Alles, was man lesen muss: Die 50 wichtigsten Bücher\", published in the Austrian weekly \"profil\" in 2001. The list was extracted from the print edition, transformed into a table, and enriched in OpenRefine with metadata on authors and works, including Wikidata, GND, and Goodreads identifiers. Publication dates were normalized using EDTF.",
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/publicdomain/zero/1.0",
+  "keywords":
+  [
+    "canonicity",
+    "literary studies",
+    "canon studies",
+    "world literature"
+  ],
+  "creator":
+  [
+    {
+      "@id": "https://orcid.org/0000-0003-2419-6629",
+      "@type":
+      [
+        "prov:Person",
+        "Person"
+      ],
+      "givenName": "Frank",
+      "familyName": "Fischer",
+      "sameAs": "https://github.com/lehkost",
+      "affiliation":
+      {
+        "@type": "Organization",
+        "name": "Freie Universität Berlin"
+      }
+    }
+  ],
+  "isBasedOn":
+  [
+    {
+      "@type": "Article",
+      "name": "Alles, was man lesen muss: Die 50 wichtigsten Bücher",
+      "pageStart": 142,
+      "pageEnd": 149,
+      "publisher":
+      {
+        "@type": "Organization",
+        "name": "profil"
+      },
+      "isPartOf":
+      {
+        "@type": "PublicationIssue",
+        "name": "profil",
+        "issueNumber": 48,
+        "datePublished": "2001-11-26",
+        "isPartOf":
+        {
+          "@type": "Periodical",
+          "name": "profil"
+        }
+      },
+      "contributor":
+      [
+        {
+          "@type": "Person",
+          "name": "Barbara Frischmuth",
+          "sameAs":
+          [
+            "http://www.wikidata.org/entity/Q114623",
+            "https://d-nb.info/gnd/118693727"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Wendelin Schmidt-Dengler",
+          "sameAs":
+          [
+            "http://www.wikidata.org/entity/Q94442",
+            "https://d-nb.info/gnd/120837099"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Radek Knapp",
+          "sameAs":
+          [
+            "http://www.wikidata.org/entity/Q2125534",
+            "https://d-nb.info/gnd/115602232"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Ilse Aichinger",
+          "sameAs":
+          [
+            "http://www.wikidata.org/entity/Q93514",
+            "https://d-nb.info/gnd/118501232"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Rotraut Schöberl",
+          "sameAs":
+          [
+            "http://www.wikidata.org/entity/Q123686600",
+            "https://d-nb.info/gnd/143476653"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Michael Köhlmeier",
+          "sameAs":
+          [
+            "http://www.wikidata.org/entity/Q113974",
+            "https://d-nb.info/gnd/119544199"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Barbara Coudenhove-Kalergi",
+          "sameAs":
+          [
+            "http://www.wikidata.org/entity/Q547726",
+            "https://d-nb.info/gnd/12034436X"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Österreich hat gewählt",
+      "url": "https://web.archive.org/web/20011218132506/http://www.profil.at/literaturkanon/",
+      "isAccessibleForFree": true
+    }
+  ],
+  "prov:wasGeneratedBy":
+  {
+    "@type": "prov:Activity",
+    "name": "Extraction, reconciliation, metadata enrichment, and manual verification",
+    "prov:wasAssociatedWith":
+    [
+      {
+        "@type":
+        [
+          "prov:SoftwareAgent",
+          "SoftwareApplication"
+        ],
+        "name": "OpenRefine",
+        "url": "https://openrefine.org/",
+        "softwareVersion": "3.10.0"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-2419-6629"
+      }
+    ]
+  }
+}
